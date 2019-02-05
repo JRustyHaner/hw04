@@ -27,5 +27,8 @@ BLAH
 BLAH2
 BLAH3
 BLAHHH
-Blahh
-blahh
+<<<<<<< HEAD
+=======
+This is a conflict.
+And this is too.
+>>>>>>> branch
